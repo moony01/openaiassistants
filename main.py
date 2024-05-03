@@ -1,6 +1,6 @@
 # 로컬로 테스트 할 땐 아래 코드 주석을 해제해야함
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 import os
 import streamlit as st
